@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Federico, I'm from Italy, I'm 17 years old, I code since I was 13 years old.
+I'm Federico, I'm from Italy, I'm 19 years old, I code since I was 13 years old.
 
 My first programming languages was Java, followed by PhP.
 
